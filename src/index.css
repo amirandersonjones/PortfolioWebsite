@@ -20,7 +20,7 @@
 
     --container-width-lg: 75%;
     --container-width-md: 86;
-    --conatiner-width-ms: 90%;
+    --conatiner-width-sm: 90%;
     
 }
 
@@ -60,7 +60,7 @@ h1 {
 
 section {
     margin-top: 8rem;
-    height: 100vh;
+  
 }
 
 section > h2, section > h5 {

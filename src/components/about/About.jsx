@@ -26,13 +26,13 @@ const About = () => {
       <article className='about__card'>
       <BsAwardFill className='about__icon'/>
       <h5>Experience</h5>
-      <small>3+ Year Working</small>
+      <small>1+ Year Working</small>
       </article>
     
       <article className='about__card'>
       <ImUsers className='about__icon'/>
       <h5>Clients</h5>
-      <small>300 + Worldwide</small>
+      <small>Inquire Within</small>
       </article>
 
       <article className='about__card'>

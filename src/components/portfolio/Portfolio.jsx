@@ -21,11 +21,8 @@ const data = [
     image: IMG2,
     title: 'JavaScript Weather App',
     github: 'https://github.com/amirandersonjones/weatherapprework',
-<<<<<<< HEAD
-    demo: 'https://javascriptweatherforecastapp.web.app/'
-=======
-    demo: 'https://dribbble.com/Alien_pixels'
->>>>>>> f4646000e69099cdfa3de75978bdfde9d418ecb3
+    demo: 'https://github.com/amirandersonjones/weatherapprework',
+
   },
   {
     id: 3,

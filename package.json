@@ -7,8 +7,11 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
+<<<<<<< HEAD
     "firebase": "^9.6.11",
     "heroku": "^7.60.1",
+=======
+>>>>>>> f4646000e69099cdfa3de75978bdfde9d418ecb3
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.3.1",
